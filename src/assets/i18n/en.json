@@ -1,0 +1,15 @@
+{
+  "NAVBAR": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "CONTACT": "Contact",
+    "LANGUAGE": "Language",
+    "BRAND": "Brand",
+    "EN": "En",
+    "AR": "Ar"
+  },
+  "HOME": {
+    "WELCOME": "Welcome",
+    "DEJA": "Deja"
+  }
+}
